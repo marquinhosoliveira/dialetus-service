@@ -128,5 +128,15 @@
     "dialect": "Garrado",
     "meanings": ["Farei com certeza."],
     "examples": ["Vai a festa hoje? Tô garrado!"]
-  }
+  },
+  {
+    "dialect": "Agarrado",
+    "meanings": ["Ocupado, sem tempo para executar alguma tarefa de imediato."],
+    "examples": ["Você pode formatar este PC? Agora não dá estou agarrado!"]
+  },
+  {
+    "dialect": "Logo Ali",
+    "meanings": ["Unidade de media. Quando não há uma distância determinada, nem perto nem longe porém impossível de ir a pé.],
+    "examples": ["Você sabe onde fica a padaria? - É logo alí."]
+  },  
 ]
